@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "977886100874",
+    "project_id": "magisterapplication",
+    "storage_bucket": "magisterapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977886100874:android:3fafc3cec2766111535c73",
+        "android_client_info": {
+          "package_name": "gangdrive.gang.magisterapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977886100874-l6veht0l3q1l2cupgjvlkqt0v3tolm9s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "gangdrive.gang.magisterapplication",
+            "certificate_hash": "b72d6f56320e7ac3a4784c565e698bc261ac9606"
+          }
+        },
+        {
+          "client_id": "977886100874-j50fa7qvecpkeshfe15pqib3fbvms54d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn3qDndI8Ag2KatxRtAVbdVx8BMVpjDR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977886100874-j50fa7qvecpkeshfe15pqib3fbvms54d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
